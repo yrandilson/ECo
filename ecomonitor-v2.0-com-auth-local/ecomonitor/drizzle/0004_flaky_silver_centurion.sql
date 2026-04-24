@@ -1,0 +1,1 @@
+ALTER TABLE `simulations` MODIFY COLUMN `sim_type` enum('fire','water','pollution','deforestation','water-quality') NOT NULL;

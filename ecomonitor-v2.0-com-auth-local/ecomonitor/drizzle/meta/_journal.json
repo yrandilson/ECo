@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1769975823957,
+      "tag": "0000_outstanding_christian_walker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769976165428,
+      "tag": "0001_polite_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770050791447,
+      "tag": "0002_common_wildside",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1770138939764,
+      "tag": "0003_special_bloodstorm",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1770143122207,
+      "tag": "0004_flaky_silver_centurion",
+      "breakpoints": true
+    }
+  ]
+}
